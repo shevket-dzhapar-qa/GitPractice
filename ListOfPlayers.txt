@@ -1,4 +1,4 @@
-Cristiano Ronaldo
+ git checkout Cristiano Ronaldo
 Leo Messi
 Luca Modric
 Lamin Yamal
